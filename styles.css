@@ -1,0 +1,25 @@
+body {
+    margin:auto;
+    width: 700px;
+    background-color: #F8F8F8;
+}
+
+div {
+    background-color: azure;
+    font-family: "calibri";
+    font-weight: 300;
+    color: grey;
+    padding:10px;
+    font-size: 13.5px;
+    line-height: 2em;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+h5 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
