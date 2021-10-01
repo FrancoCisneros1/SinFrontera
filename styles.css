@@ -5,21 +5,58 @@ body {
 }
 
 div {
-    background-color: azure;
+    background-color: #f0ffff;
     font-family: "calibri";
-    font-weight: 300;
+    font-weight: 400;
     color: grey;
-    padding:10px;
-    font-size: 13.5px;
-    line-height: 2em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 22px;
+    line-height: 1.5em;
+    text-align: justify;
 }
 
 h1 {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
+    font-size: 18px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: black
+}
+
+h2{
+    color:black;
 }
 h5 {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0px;
+
+}
+
+.video-title {
+    padding: 0px;
+}
+.video-parra {
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 0%;
+
+}
+
+.footer-image-5 {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: grey;
+    font-weight: bold;
+    margin: 10px;
+    line-height: 1.5em;
+    padding: 5px;
 
 }
