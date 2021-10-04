@@ -24,11 +24,11 @@ h1 {
     font-size: 18px;
     padding-top: 5px;
     padding-bottom: 5px;
-    color: black
+    color: #000000
 }
 
 h2 {
-    color:black;
+    color:#000000;
 }
 
 h3 {
@@ -57,7 +57,7 @@ h3 {
     text-align: justify;
     font-family: 'unify sans', Arial, Helvetica, sans-serif;
     font-size: 14px;
-    color: grey;
+    color: #999898;
     font-weight: bold;
     margin: 10px;
     line-height: 1em;
@@ -65,7 +65,7 @@ h3 {
 }
 
 p {
-    color: grey;
+    color: #999898;
     line-height: 1em;
     margin: 5px;
 }
